@@ -36,3 +36,5 @@ def compile_c_to_python(c_filename):
 
 if __name__ == "__main__":
     compile_c_to_python("input.c")
+
+Hi adi
